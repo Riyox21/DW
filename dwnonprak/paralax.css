@@ -1,0 +1,82 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+section{
+	width: 100%;
+	height: 100vh;
+	box-sizing: border-box;
+}
+
+section.pertama{
+	background: url(art.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	max-height: 70%;
+}
+.tet a{
+	text-align: center; 
+	text-align: center center;
+	border: 2px solid #fff;
+	text-decoration: none;
+	color: #fff;
+	font-size: 40px;
+	border-radius: 10px;
+	position: absolute;
+	top: 70%;
+	width: 25%;
+	left: 38%;
+
+}
+section.kedua{
+	background: url(coffe.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+section.ketiga{
+	background: url(arch.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+section.keempat{
+	background: url(beach.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+section.kelima{
+	background-color: #000;
+
+}
+section.footer{
+	padding: 50px 100px;
+	height: auto;
+	background: #000;
+	color: #fff;
+}
+section.text{
+	padding: 50px 10px;
+	height: auto;
+	background: #fff;
+}
+h1{
+	text-align: center;
+	font-size: 30px;
+	margin:-5px;
+	padding: -5px;
+}
+p{
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+	background: #fff;
+	color: #000;
+	padding: 10px 100px;
+
+}
